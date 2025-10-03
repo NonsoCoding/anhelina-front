@@ -53,7 +53,7 @@ const ExplorePlans = () => {
     ]
 
     return (
-        <section className="w-full pb-20 md:pb-35">
+        <section className="w-full pb-15 md:pb-35">
             <div className="mx-auto w-[90%] md:w-[80%] flex flex-col gap-15">
                 <div className="flex flex-col items-center">
                     <p className="text-4xl font-semibold text-white">Explore Plans</p>

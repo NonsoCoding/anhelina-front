@@ -23,10 +23,10 @@ const Hero = () => {
             <input
               className="w-full py-3 px-4 bg-gray-700 text-white placeholder-gray-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition"
               type="email"
-              placeholder="Enter your email"
+              placeholder="Enter your Phone number"
             />
             <button className="w-full py-3 bg-white text-gray-900 font-medium rounded-lg hover:bg-gray-200 transition">
-              Continue with Email
+              Continue with Phone number
             </button>
             <p className="text-xs text-gray-500">
               By continuing, you acknowledge Anhelina’s Privacy Policy.

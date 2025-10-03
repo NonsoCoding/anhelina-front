@@ -2,7 +2,7 @@ import { Brain, Rocket, Globe } from "lucide-react";
 
 const MeetAnhelina = () => {
   return (
-    <section className="py-20 md:py-32 lg:py-40 bg-gray-900">
+    <section className="py-20 md:py-25 lg:py-25 bg-gray-900">
       <div className="w-[90%] md:w-[85%] lg:w-[80%] mx-auto">
         {/* Top heading */}
         <div className="flex flex-col gap-6 items-center mb-12 md:mb-16">
